@@ -21,3 +21,6 @@ the PVP game mode
 试完网址  
 the test website  
 [military-rescue/合金弹头（仿）](http://chenhuaizhen.applinzi.com/HJDT/)
+
+注意：该项目得用cocos编辑器打开（比如CocosCreator），直接导入HJDT文件夹即可    
+Note: this project should be opened by cocos editor(such as CocosCreator), just import the folder named HJDT  
