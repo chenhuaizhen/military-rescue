@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnysdk": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.HJDT",
+  "startScene": "506636ff-b3e9-4f89-8d2f-edcffea1cf20",
+  "title": "HJDT",
+  "webOrientation": "auto"
+}

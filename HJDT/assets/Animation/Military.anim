@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Military",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {},
+    "comps": {
+      "cc.Label": {
+        "fontSize": [
+          {
+            "frame": 0,
+            "value": 200
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": 128
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

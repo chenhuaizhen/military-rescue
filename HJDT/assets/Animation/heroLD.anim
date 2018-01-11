@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "heroLD",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4,
+  "sample": 40,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2b53f5c8-3d7a-480e-aee9-ac303035eae8"
+            }
+          },
+          {
+            "frame": 0.175,
+            "value": {
+              "__uuid__": "686ca804-7e17-4363-9000-41c4da914009"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "2b53f5c8-3d7a-480e-aee9-ac303035eae8"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

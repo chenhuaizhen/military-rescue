@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ebulletKnockon",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.1125,
+  "sample": 80,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ebb6aaff-2fbf-4322-9ae8-3ac07f548cec"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "76992a19-de57-4b2b-ae82-52a50851a49f"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "cda50784-fddc-46ac-8468-6087639878cc"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "da7ec011-4689-4105-88d8-84e1f90cd2c3"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "63a6e292-71dc-4527-af0a-d729c48bc328"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
