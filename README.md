@@ -18,6 +18,9 @@ PVP游戏界面
 the PVP game mode  
 ![image](https://github.com/chenhuaizhen/military-rescue/raw/master/image/4.jpg)
 
+游戏通过键盘ASWD控制方向，鼠标点击开火  
+in this game you have to use the "A/S/W/D" in the keyboard and click the mouse to fire  
+
 试完网址  
 the test website  
 [military-rescue/合金弹头（仿）](http://chenhuaizhen.applinzi.com/HJDT/)
